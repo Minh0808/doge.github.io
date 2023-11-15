@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d08b58a6.css",
+    "main.js": "/static/js/main.9a4e3898.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/Inter.ttf": "/static/media/Inter.853e01975d2783d9fa29.ttf",
+    "static/media/Frame 17.png": "/static/media/Frame 17.71df960efbcb125911e4.png",
+    "static/media/Frame 15.png": "/static/media/Frame 15.29deeb9e903dbb53a403.png",
+    "static/media/hiinh.png": "/static/media/hiinh.b4fadf8046d112437ecd.png",
+    "static/media/Frame 16.png": "/static/media/Frame 16.a3e06314a58a536d6a04.png",
+    "static/media/About.png": "/static/media/About.24156bf7c219e18cba4d.png",
+    "static/media/bgEnjoy.png": "/static/media/bgEnjoy.d58c8ed04c121b9f049c.png",
+    "static/media/commingsoon.png": "/static/media/commingsoon.b4d929730750a9e446e9.png",
+    "static/media/bgBuy.png": "/static/media/bgBuy.50c458bbbbe390f4240d.png",
+    "static/media/bgPool.png": "/static/media/bgPool.d4207a5a54cd8298a716.png",
+    "static/media/ethnocentric rg.otf": "/static/media/ethnocentric rg.be90612cdf104f2057e4.otf",
+    "index.html": "/index.html",
+    "main.d08b58a6.css.map": "/static/css/main.d08b58a6.css.map",
+    "main.9a4e3898.js.map": "/static/js/main.9a4e3898.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08b58a6.css",
+    "static/js/main.9a4e3898.js"
+  ]
+}
